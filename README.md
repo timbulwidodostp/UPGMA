@@ -1,6 +1,8 @@
 # UPGMA
 UPGMA (Unweighted Pair Group Method with Arithmetic Mean) Use phangorn With R Software
 
+https://www.youtube.com/watch?v=vfvTbJwMpQs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
